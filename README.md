@@ -1,9 +1,7 @@
-# Welcome to GA's WDI-DC
-General Assembly's Web Development Immersive Course in the District of Columbia
+# Object Oriented Programming in Ruby
 
-## Conventions:
-- Each week has its own directory with a readme.md
-- Each week's readme contains an overview of week, including Learning Objectives.
-- Each lesson has its own directory (within the week). The lesson's readme.md contains the Lesson Plan.
+**[Intro to OOP - Classes and Objects](1_classes_and_objects.md)**
 
-This is published to https://ga-dc.github.io/curriculum/
+**[Intermediated OOP - Inheritance and Class Methods](2_inheritance_and_class_methods.md)**
+
+Also see the [examples folder](examples/) for code examples used in the lessons.
